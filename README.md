@@ -13,7 +13,7 @@ The project is organized as follows:
 * **`Customer behavior.png`**: A high-resolution screenshot of the final Tableau dashboard.
 
 ## 📊 Dashboard Preview
-![Customer Behavior Dashboard](https://github.com/MohammadHammoudeh14/customer_behavior-Python-SQL-Tableau-/raw/main/Customer%20behavior.png)
+ ![Image Alt](https://github.com/MohammadHammoudeh14/customer_behavior-Python-SQL-Tableau-/raw/main/Customer%20behavior.png)
 
 ## 🛠 Tech Stack & Workflow
 
